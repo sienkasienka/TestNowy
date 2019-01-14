@@ -1,5 +1,7 @@
 1. Pierwsza linijka
-2. Druga linijka
-3. Trzecia linijeczka
+2. Druga linijka - z dopiskiem
+a. Dopisek jako podpunkt w drugiej linicje
+b. Drugi dopisek jak podpunkt
+3. Ta linijka byla 3 ale zosta³a jeszcze bardziej zedytowana
 4. Czwarta linijka
 5. Pi¹ta poprawiona linijeczka
