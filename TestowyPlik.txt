@@ -1,5 +1,5 @@
 1. Pierwsza linijka
 2. Druga linijka
-3. Trzecia linijka
+3. Trzecia linijeczka
 4. Czwarta linijka
-5. Pi¹ta linijka
+5. Pi¹ta poprawiona linijeczka
